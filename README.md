@@ -48,4 +48,4 @@ This project is licensed under the MIT License – see the LICENSE file for deta
 
 ## Author
 Robinson Alves Dos Santos
-Data Scientist, Physicist, PhD
+Data Scientist, Machine Learning Engineer, Physicist, PhD
